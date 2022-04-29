@@ -1,2 +1,2 @@
 #Salary-Arrangement
-#Live Site:  https://khaled39ab.github.io/Salary-Arragement/
+#Live Site: https://khaled39ab.github.io/Salary-Arragement/
